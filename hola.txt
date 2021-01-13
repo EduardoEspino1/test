@@ -1,1 +1,9 @@
-hola panas
+git init
+git remote add https://github.com/EduardoEspino1/test
+git config --global user.name = EduardoEspino1
+git config --global user.email = jose.espino16@tectijuana.edu.mx
+git status
+git add *
+git status
+git commit -m "Test"
+
